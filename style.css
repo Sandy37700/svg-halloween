@@ -5,7 +5,7 @@ body, html{
 
 }
 .st16{
-    animation: flicker-one 3s linear infinite;
+    animation: flicker-one 5s linear infinite;
 }
 @keyframes flicker-one {
     0% { opacity: 0.1; }
